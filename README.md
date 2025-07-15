@@ -73,4 +73,4 @@ The decision tree model gave reasonable accuracy in detecting churners based on 
 
 ## 👩‍💻 Author
 
-Disha Sharma
+Keisha Wadhwa
